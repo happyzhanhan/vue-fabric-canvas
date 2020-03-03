@@ -1,6 +1,6 @@
 {
   "name": "vuefabric2019",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "fabric vue",
   "main": "dist/vue-fabric.min.js",
   "dependencies": {
